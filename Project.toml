@@ -1,0 +1,9 @@
+name = "LiveHTTPSample"
+uuid = "cc689e80-81ee-4787-a3d6-4ce7da7f070b"
+authors = ["tdlarson "]
+version = "0.1.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
